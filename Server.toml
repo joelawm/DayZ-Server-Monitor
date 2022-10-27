@@ -1,0 +1,9 @@
+[server]
+name = "Super Chil Dayz Server"
+config = "serverDZ.cfg"
+night_config = "serverDZ.cfg"
+location = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DayZServer"
+executable = "DayZServer_x64.exe"
+port = 2302
+cpu = 4
+cron = "1/10 * * * * *"
